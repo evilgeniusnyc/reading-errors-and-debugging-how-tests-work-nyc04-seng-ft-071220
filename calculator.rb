@@ -1,1 +1,1 @@
-second_number ||= 0
+first_number = 1
